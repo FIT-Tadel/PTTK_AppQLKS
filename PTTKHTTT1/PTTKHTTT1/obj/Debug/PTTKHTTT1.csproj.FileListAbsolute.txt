@@ -1,0 +1,14 @@
+E:\PTTKHTTT1\PTTKHTTT1\bin\Debug\PTTKHTTT1.exe.config
+E:\PTTKHTTT1\PTTKHTTT1\bin\Debug\PTTKHTTT1.exe
+E:\PTTKHTTT1\PTTKHTTT1\bin\Debug\PTTKHTTT1.pdb
+E:\PTTKHTTT1\PTTKHTTT1\obj\Debug\PTTKHTTT1.csproj.AssemblyReference.cache
+E:\PTTKHTTT1\PTTKHTTT1\obj\Debug\PTTKHTTT1.csproj.SuggestedBindingRedirects.cache
+E:\PTTKHTTT1\PTTKHTTT1\obj\Debug\PTTKHTTT1.Properties.Resources.resources
+E:\PTTKHTTT1\PTTKHTTT1\obj\Debug\PTTKHTTT1.csproj.GenerateResource.cache
+E:\PTTKHTTT1\PTTKHTTT1\obj\Debug\PTTKHTTT1.csproj.CoreCompileInputs.cache
+E:\PTTKHTTT1\PTTKHTTT1\obj\Debug\PTTKHTTT1.exe
+E:\PTTKHTTT1\PTTKHTTT1\obj\Debug\PTTKHTTT1.pdb
+E:\PTTKHTTT1\PTTKHTTT1\obj\Debug\PTTKHTTT1.ChiaSeChoBanThu3.resources
+E:\PTTKHTTT1\PTTKHTTT1\obj\Debug\PTTKHTTT1.ThemKHVaoTour.resources
+E:\PTTKHTTT1\PTTKHTTT1\obj\Debug\PTTKHTTT1.TraPhi.resources
+E:\PTTKHTTT1\PTTKHTTT1\obj\Debug\PTTKHTTT1.MH_TimTour.resources
